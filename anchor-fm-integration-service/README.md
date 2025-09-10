@@ -3,6 +3,8 @@
 ## Overview
 This is a standalone, compartmentalized service for integrating with Anchor.fm. It provides functionality for authenticating with Anchor.fm and publishing episodes to the platform.
 
+This component is completely self-contained and includes all necessary code files to run independently.
+
 ## Features
 - OAuth 2.0 authentication with Anchor.fm
 - Episode publishing to Anchor.fm

@@ -3,6 +3,8 @@
 ## Overview
 This is a standalone, compartmentalized podcast publishing service that can be used independently of any larger platform. It provides core functionality for managing podcasts and episodes with a RESTful API.
 
+This component is completely self-contained and includes all necessary code files to run independently.
+
 ## Features
 - Create, read, update, and delete podcasts
 - Create, read, update, and delete episodes
